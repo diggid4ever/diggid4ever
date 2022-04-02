@@ -1,5 +1,10 @@
 ### Hi there 👋
+- 🆔 : diggid 也可以叫我"怪怪"
+- 🚩 : HUST L3H_Sec Web🐶
+- ☕ : 安全菜狗 死磕Java 爱喝咖啡
+- 🎯 : 宁静致远
 
+### Github Stats
 [![diggid4ever's github stats](https://github-readme-stats.vercel.app/api?username=diggid4ever&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
